@@ -33,7 +33,9 @@ Displays Vana'Diel Clock, Moon Phases, and Elemental Day Transistion day images 
 
 ### Screenshot
 
-![vc]()
+![vc](https://github.com/Mr-Sithel/vanaclock/blob/main/Examples/v%201.0.0.png?raw=true)
+
+![vc2](https://github.com/Mr-Sithel/vanaclock/blob/main/Examples/Settings.png?raw=true)
 
 ### Installation
 
