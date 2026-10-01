@@ -6,7 +6,7 @@
 | Server | Status | Date |
 | :--- | :--- | :--- |
 | **HorizonXI** | ${\textsf{\color{orange}{Pending}}}$ | -- |
-| **PhoenixXI** | ${\textsf{\color{orange}{Pending}}}$ | -- |
+| **PhoenixXI** | ${\textsf{\color{green}{Approved}}}$ | 09-30-2026 |
 
 ### Overview
 
